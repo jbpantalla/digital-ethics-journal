@@ -1,6 +1,6 @@
 # Ethically Me
 
-*A Journal of Choices, Values, and Moral Dilemmas*, a digital ethics journal by **John Benedict C. Pantalla** (Midterm Project).
+*A Journal of Choices, Values, and Moral Dilemmas*, a digital ethics journal by **John Benedict C. Pantalla**.
 
 The journal is one self-contained web page shaped like a leather-bound book. It opens from a closed cover into two-page spreads.
 
@@ -14,15 +14,16 @@ Double-click `index.html`, or open it in any modern browser. It works fully offl
 |---|---|
 | 1 | Cover and Contents |
 | 2 | Section 1: My Moral Self-Portrait |
-| 3 | Moral Moment 1: Choosing the Team Over Sleep (Utilitarianism) |
-| 4 | Moral Moment 2: Honest When No One Is Watching (Deontology, Kantian Ethics) |
-| 5 | Moral Moment 3: Calm Before Blame (Aristotle's Virtue Ethics) |
-| 6 | Moral Moment 4: Notes Without a Price Tag (Christian Ethics) |
-| 7 | Moral Moment 5: Small Chores, Big Harmony (Eastern Virtue Ethics) |
-| 8 | Moral Moment 6: Sharing the Load Fairly (Distributive Justice) |
-| 9 | Section 3: The Moral Person I Am Becoming |
+| 3 to 8 | **Part 1 (Midterm):** six Moral Moments from my first submission |
+| 9 | Part 2, Moral Moment 1: Choosing the Team Over Sleep (Utilitarianism) |
+| 10 | Part 2, Moral Moment 2: Honest When No One Is Watching (Deontology, Kantian Ethics) |
+| 11 | Part 2, Moral Moment 3: Calm Before Blame (Aristotle's Virtue Ethics) |
+| 12 | Part 2, Moral Moment 4: Notes Without a Price Tag (Christian Ethics) |
+| 13 | Part 2, Moral Moment 5: Small Chores, Big Harmony (Eastern Virtue Ethics) |
+| 14 | Part 2, Moral Moment 6: Sharing the Load Fairly (Distributive Justice) |
+| 15 | Section 3: The Moral Person I Am Becoming |
 
-Each Moral Moment includes these parts:
+Each Moral Moment includes these parts (Part 1 entries use the label "Decision or Reflection"):
 
 - The Situation
 - The Ethical Conflict
@@ -41,7 +42,7 @@ Each Moral Moment includes these parts:
 | Jump to a section | Click an entry in the Contents list |
 | Phone | Swipe left or right to turn pages |
 
-Each page has its own link, for example `index.html#moment-3` or `index.html#growth`.
+Each page has its own link, for example `index.html#p1-moment-3` (Part 1) or `index.html#moment-3` (Part 2).
 
 ## Accessibility
 
